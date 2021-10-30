@@ -4,7 +4,9 @@ title: DWDC 2022 ― Daewon Debate Championship
 
 # Introduction
 
-**2022 Daewon Debate Championship**||
+**2022 Daewon Debate Championship**
+
+| | |
 ---|---|
  참가 접수 기간 |2021년 12월
  참가 신청 방법 |[여기](/pages/apply.md)를 참조하세요.
