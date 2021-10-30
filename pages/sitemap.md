@@ -1,5 +1,5 @@
 ---
-title: Sitemap ― Daewon Debate Championship
+title: Sitemap
 ---
 
 [대회 소개](about.md)
