@@ -9,9 +9,9 @@ title: Direction
 <a href="https://map.kakao.com/?urlX=519680&urlY=1128932&urlLevel=4&map_type=TYPE_MAP&map_hybrid=false" target="_blank">
 	<img width="504" height="310" src="https://map2.daum.net/map/mapservice?FORMAT=PNG&SCALE=5&MX=519680&MY=1128932&S=0&IW=504&IH=310&LANG=0&COORDSTM=WCONGNAMUL&logo=kakao_logo" style="border:1px solid #ccc">
 </a>
-<div class="hide" style="overflow:hidden;padding:7px 11px;border:1px solid #dfdfdf;border-color:rgba(0,0,0,.1);border-radius:0 0 2px 2px;background-color:#f9f9f9;width:482px;">
+<div class="hide" style="overflow:hidden;padding:7px 11px;border:1px solid #dfdfdf;border-color:rgba(0,0,0,.1);border-radius:0 0 2px 2px;background-color:#f9f9f9;width:400px;">
 	<div style="float: right;position:relative">
-		<a style="font-size:12px;text-decoration:none;float:left;height:15px;padding-top:1px;line-height:15px;color:#000" target="_blank" href="https://map.kakao.com/?urlX=519680&urlY=1128932&urlLevel=4&map_type=TYPE_MAP&map_hybrid=false">
+		<a target="_blank" href="https://map.kakao.com/?urlX=519680&urlY=1128932&urlLevel=4&map_type=TYPE_MAP&map_hybrid=false">
 		카카오맵으로 바로가기
 		</a>
 	</div>
