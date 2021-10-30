@@ -6,7 +6,7 @@ title: Sitemap
 
 [대회 일정](schedule.md)
 
-[대회 참가 신청](apply.md)
+[대회 참가 신청](application.md)
 
 [연락처](contact.md)
 
