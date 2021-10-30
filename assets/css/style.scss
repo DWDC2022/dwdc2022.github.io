@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+body {
+  font-size: 20px;
+}
+
 a:link {
   text-shadow: 1px 0px #fff, 0px 1px #fff, -1px 0px #fff, 0px -1px #fff, 1px 1px #fff, 1px -1px #fff, -1px -1px #fff, -1px 1px #fff;
 }
