@@ -1,5 +1,5 @@
 ---
-title: Contact ― Daewon Debate Championship
+title: Contact
 ---
 
 # People in charge
