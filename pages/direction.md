@@ -6,7 +6,7 @@ title: Direction
 
 주소: 서울 광진구 용마산로22길 26, 대원외국어고등학교
 
-<a href="https://map.kakao.com/?urlX=519680&urlY=1128932&urlLevel=4&map_type=TYPE_MAP&map_hybrid=false" target="_blank"><img width="504" height="310" src="https://map2.daum.net/map/mapservice?FORMAT=PNG&SCALE=5&MX=519680&MY=1128932&S=0&IW=504&IH=310&LANG=0&COORDSTM=WCONGNAMUL&logo=kakao_logo" style="border:1px solid #ccc"></a><div style="float: right;position:relative"><a style="font-size:12px;text-decoration:none;float:left;height:15px;padding-top:1px;line-height:15px;color:#000" target="_blank" href="https://map.kakao.com/?urlX=519680&urlY=1128932&urlLevel=4&map_type=TYPE_MAP&map_hybrid=false">카카오맵으로 바로가기</a></div></div>
+<a href="https://map.kakao.com/?urlX=519680&urlY=1128932&urlLevel=4&map_type=TYPE_MAP&map_hybrid=false" target="_blank"><img width="504" height="310" src="https://map2.daum.net/map/mapservice?FORMAT=PNG&SCALE=5&MX=519680&MY=1128932&S=0&IW=504&IH=310&LANG=0&COORDSTM=WCONGNAMUL&logo=kakao_logo" style="border:1px solid #ccc"></a><a style="font-size:12px;text-decoration:none;float:left;height:15px;padding-top:1px;line-height:15px;color:#000" target="_blank" href="https://map.kakao.com/?urlX=519680&urlY=1128932&urlLevel=4&map_type=TYPE_MAP&map_hybrid=false">카카오맵으로 바로가기</a></div>
 
 가급적 대중교통을 이용해 주십시오.
 
