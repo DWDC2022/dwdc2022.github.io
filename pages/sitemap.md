@@ -2,7 +2,7 @@
 title: Sitemap
 ---
 
-[메인 페이지](../main.md)
+[메인 페이지](../index.md)
 
 [대회 소개](about.md)
 
