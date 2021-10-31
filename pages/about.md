@@ -29,5 +29,7 @@ The Daewon Debate Team is a debate team like no other. DDT is the most successfu
 
 대회에 Adjudicator로서 참가하는 학생들은 다음과 같은 수상 경력을 갖고 있습니다.
 
-|학생명|수상 경력|
-|---|---|
+|학생명|역할|수상 경력|
+|---|---|---|
+|Alice|Main Chief Adjudicator|blah|
+|Bob|Deputy Chief Adjudicator|blah|
