@@ -6,6 +6,8 @@ title: Sitemap
 
 [대회 소개](about.md)
 
+[운영진 소개](secretariats.md)
+
 [대회 일정](schedules.md)
 
 [대회 참가 신청](application.md)
