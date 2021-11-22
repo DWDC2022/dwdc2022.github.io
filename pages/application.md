@@ -15,7 +15,7 @@ title: Application
 ## 신청 절차
 
 1. 참가 신청서에 모든 사항을 기재하여 daewondebatechampionship2022@gmail.com으로 전송합니다.
-   * <a href="/_includes/dwdc-application-2022.docx" download="download">참가 신청서 파일입니다.</a>
+   * <a href="https://github.com/DWDC2022/dwdc2022.github.io/raw/main/_includes/dwdc-application-2022.docx" download="download">참가 신청서 파일입니다.</a>
 3. 참가 신청서에 기재하신 입금자명으로 예치금을 입금합니다.
    * 예치금은 국민은행 454102-01-539162 (예금주 박연재) 계좌로 입금해주시면 됩니다.
    * 예치금은 팀당 5만 원이며, 대회 당일 참석하신 경우에 한해 다시 돌려드립니다.
