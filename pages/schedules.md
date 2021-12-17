@@ -13,14 +13,14 @@ title: Schedules
 13:00-15:00|Round 2
 15:00-17:00|Round 3
 17:00-18:30|Round 4 (Silent)
+18:30|Break Announcements
 
 ## 둘째 날 일정 (1/9)
 
 |시간|일정|
 |---|---|
-08:45-09:00|Roll Call
-09:00-11:00|Round 5 (Silent)
-11:00-12:00|Break Announcements
+09:45-10:00|Roll Call
+10:00-12:00|Round 5 (Silent)
 12:00-13:00|Lunch
 13:00-15:00|Semi Finals
 15:00-17:00|Grand Finals
