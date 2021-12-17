@@ -13,7 +13,6 @@ title: Schedules
 13:00-15:00|Round 2
 15:00-17:00|Round 3
 17:00-18:30|Round 4 (Silent)
-19:00|Break Announcement
 
 ## 둘째 날 일정 (1/9)
 
