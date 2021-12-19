@@ -3,12 +3,33 @@ layout: null
 ---
 
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    <url><loc>https://dwdc2022.github.io/</loc></url>
-    <url><loc>https://dwdc2022.github.io/pages/about.html</loc></url>
-    <url><loc>https://dwdc2022.github.io/pages/application.html</loc></url>
-    <url><loc>https://dwdc2022.github.io/pages/contacts.html</loc></url>
-    <url><loc>https://dwdc2022.github.io/pages/direction.html</loc></url>
-    <url><loc>https://dwdc2022.github.io/pages/schedules.html</loc></url>
-    <url><loc>https://dwdc2022.github.io/pages/secretariats.html</loc></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://dwdc2022.github.io/</loc>
+        <lastmod>2021-12-19</lastmod>
+    </url>
+    <url>
+        <loc>https://dwdc2022.github.io/pages/about.html</loc>
+        <lastmod>2021-11-01</lastmod>
+    </url>
+    <url>
+        <loc>https://dwdc2022.github.io/pages/application.html</loc>
+        <lastmod>2021-12-20</lastmod>
+    </url>
+    <url>
+        <loc>https://dwdc2022.github.io/pages/contacts.html</loc>
+        <lastmod>2021-10-31</lastmod>
+    </url>
+    <url>
+        <loc>https://dwdc2022.github.io/pages/direction.html</loc>
+        <lastmod>2021-11-22</lastmod>
+    </url>
+    <url>
+        <loc>https://dwdc2022.github.io/pages/schedules.html</loc>
+        <lastmod>2021-12-17</lastmod>
+    </url>
+    <url>
+        <loc>https://dwdc2022.github.io/pages/secretariats.html</loc>
+        <lastmod>2021-11-01</lastmod>
+    </url>
 </urlset>
