@@ -16,7 +16,6 @@ The Daewon Debate Team is a debate team like no other. DDT is the most successfu
 
 대회에 Secretariat로서 참가하는 학생들은 다음과 같은 토론 경력을 갖고 있습니다.
 
-|학생명|역할|토론 경력|
-|---|---|---|
-|Alice|Main Chief Adjudicator|blah|
-|Bob|Deputy Chief Adjudicator|blah|
+|학생명|토론 경력|
+|---|---|
+|Kim Doug|1. 2021 KIDA Open (Korea Intervarsity Debate Association), Champion <br> 2. 2021 WSDC Hong Kong, Quarter Finalist, 4th Best Speaker <br> 3. 2020 IDC (International Debating Championship) Finalist <br> 4. 2020 HKDO WSDC (Hong Kong Debate Open), 12th best Speaker <br> 5. 2020 YTN-HUFS English Debating Championship, Finalist (Yonhap Television News – Hankuk University of Foreign Studies) <br> 6. 2019 YTN-HUFS English Debating Championship, Finalist, 3rd Best Speaker <br> 7. 2019 HAFS (Hankuk Academy of Foreign Studies) Debate Conference, Finalist <br> 8. 2019 KYDC (Korea Youth Debating Championship), Champion, 2nd Best Speaker <br> 9. 2018 HAFS Debate Conference, Champion, 2nd Best Speaker <br> 10. 2017 YTN-HUFS English Debating Championship, Champion
