@@ -10,6 +10,8 @@ title: Sitemap
 
 [대회 일정](schedules.md)
 
+[대회 결과](results.md)
+
 [대회 참가 신청](application.md)
 
 [연락처](contacts.md)
